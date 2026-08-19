@@ -12,6 +12,7 @@ import dev.shadowsoffire.apotheosis.Apoth.Items;
 import dev.shadowsoffire.apotheosis.Apotheosis;
 import dev.shadowsoffire.apotheosis.affix.reforging.ReforgingMenu;
 import dev.shadowsoffire.apotheosis.affix.reforging.ReforgingMenu.ReforgingResultSlot;
+import dev.shadowsoffire.apotheosis.affix.reforging.ReforgingMenu;
 import dev.shadowsoffire.apotheosis.affix.salvaging.SalvagingScreen;
 import dev.shadowsoffire.apotheosis.client.AdventureContainerScreen;
 import dev.shadowsoffire.apotheosis.client.GhostVertexBuilder;
